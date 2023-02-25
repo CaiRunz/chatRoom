@@ -1,0 +1,3 @@
+﻿  client.cpp
+D:\netCode\client\client.cpp(96,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> D:\netCode\netCoding\x64\Debug\client.exe
